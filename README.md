@@ -30,3 +30,4 @@ All require `Authorization: Bearer $MONGO_PROXY_TOKEN`.
 
 Whitelist Vercel's egress or (simplest) allow `0.0.0.0/0` — the bearer token protects the proxy.
 # duncanville
+# duncanville
